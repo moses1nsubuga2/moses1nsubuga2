@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nsubuga Moses.
-- 👀 I’m interested in Web development, Software development and App development.
-- 🌱 I’m currently learning Javascript, Angular and Python.
+- 👀 I’m interested in Web development, Software development and Game development.
+- 🌱 I’m currently learning Javascript, C++ and C#.
 - 💞️ I’m looking to collaborate on any project that can help me realise my dream.
 - 📫 How to reach me: moses1nsubuga2 or +256785703504
 
